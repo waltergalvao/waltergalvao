@@ -8,4 +8,4 @@ I invite you to look at my career trajectory instead, look at https://linkedin.c
   
 Basically just college projects.  
   
-Except for https://github.com/wbgneto/jira-better-estimates, which I made to help my team at Optix.
+Except for https://github.com/wbgneto/jira-better-estimates, which I quickly made to help my team at Optix.
